@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 Comecei meus estudos em janeiro de 2025<br>🎯 Minha meta é se tornar Dev Full-Stack<br>🎲 Sempre teste seu sistema.</p>
+<p align="center">📚 Comecei meus estudos em janeiro de 2025<br>🎯 Minha meta é me tornar Dev Full-Stack<br>🎲 Sempre teste seu sistema.</p>
 
 ###
 
