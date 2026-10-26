@@ -46,6 +46,15 @@
   <a href="https://www.figma.com/" target="_blank">
     <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   </a>
+  
+  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank">
+    <img title="C# dotnet" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" height="40" />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img title="C# dotnet" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40" />
+  </a>
+  
 </div>
 
 ###
